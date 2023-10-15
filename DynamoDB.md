@@ -3,3 +3,4 @@
 Primary key: Partition Key + Soft Key
 
 GSI(Global Seconddary Index): Can use for query without scan all, cost
+zzz
