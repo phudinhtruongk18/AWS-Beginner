@@ -18,3 +18,5 @@ This is the space where I'll be taking notes about AWS.
 Feel free to reach out if you have any questions. 
 
 Have a lovely morning!
+
+https://www.youtube.com/watch?v=zA8guDqfv40
